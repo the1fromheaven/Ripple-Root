@@ -1,7 +1,3 @@
-# Ripple & Root Website
-
-Redesigned multi-page website matching the official logo, color palette, and fonts.
-
 ## Brand Colors Used
 - Cream: #fdfcfa
 - Taupe: #bcac96
@@ -22,14 +18,5 @@ Redesigned multi-page website matching the official logo, color palette, and fon
 - reports.html – Monthly “State of Our Local Soil & Water”
 - actions.html – Take action
 - contact.html – Contact / join
-
-## How to Go Live (Free)
-1. **GitHub Pages** – Upload the folder to a GitHub repo and enable Pages.
-2. **Netlify** – Drag and drop the folder at netlify.com for an instant live site.
-
-## Customization
-- Replace the logo placeholder with your actual logo image (name it logo.png or update the src).
-- Update email and Instagram on the Contact page.
-- Add real report content by editing the report-item blocks.
 
 Tagline used: **Small Actions. Lasting Change.**
